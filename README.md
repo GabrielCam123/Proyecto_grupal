@@ -7,4 +7,5 @@ Integrantes
  -Andrew Segales
  -Roberto Sea
  -Beimar Castañeta
- -Vega es en realidad Alex Marin y tiene 3 esposas uwu
+ -Vega es en realidad Alex Marin y tiene 3 esposas uwu 
+ -aloja
