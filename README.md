@@ -1,7 +1,7 @@
 # Proyecto_grupal
 
 Integrantes
- -Wiliam Ali
+ -Wiliam Ali aaaaaaaaaaaa
  -Cristian Vega
  -Oscar Cameo
  -Andrew Segales

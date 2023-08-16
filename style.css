@@ -418,3 +418,306 @@ background-size:32px;
     height: 32px;
     background-position:0 0
 }
+
+/*JOSUE WILLIAM*/
+.taller-progra{
+    display: inline-block;
+    width: 99%;
+    height: 415px;
+    margin-top: 0.1%;
+    margin-left: 0.6%;
+    margin-right: 0.6%;
+    margin-block-end: 0.1%;
+    background-color: #763B6F;
+}
+#titulo-taller{
+    color: white;
+}
+
+.Titulo-block{
+    display: inline-block;
+}
+.clasific{
+    display: inline-block;
+    
+    width:80%;
+    height: 20px;
+}
+.temas-cuadro{
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 100px;
+    justify-content: center;
+  align-items: center;
+}
+.mensaje-cuadro{
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 100px;
+    justify-content: center;
+  align-items: center;
+}
+.ultimo-cuadro{
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 100px;
+    justify-content: center;
+  align-items: center;
+}
+
+#cuadro-espacio{
+    
+    width:450px;
+    height: 60px;
+}
+.espacio{
+    display: inline-block;
+    width:50px;
+    height: 10px;
+    background-color: red;
+}
+.ttl-temas{
+    float: right;
+    width:14%;
+    height: 100px;
+}
+.ttl-mensaje{
+    float: right;
+    width:15%;
+    height: 100px;
+}
+.ttl-ultimos{
+    float: right;
+    width:10%;
+    height: 100px;
+}
+.cuadro-ops{
+    display: block;
+    width:99.5%;
+    height: 350px;
+    margin: 0.2%;
+    background-color: white;
+}
+
+
+#titulo-tllr-prg{
+    margin: 5px;
+    color: #683362;
+    font-weight: bold;
+}
+
+.articulo{
+    display: inline-block;
+    width:70%;
+    height: 100px;
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    background-color: #F4EFF4;
+}
+.img-text-1{
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#img-btn-text-1{
+    width: 40px;
+    height: 40px;
+}
+.text-titulo{
+    display: inline-block;
+}
+.img-libro{
+    display: inline-block;
+}
+#librito{
+    width: 55px;
+    height: 55px;
+}
+.descrip-text{
+    display: inline-block;
+}
+#desc-text-t{
+    color: #763B6F;
+}
+#prrf-sup{
+    color: #683362;
+    font-weight: bold;
+}
+#prrf-sup-1{
+    color: #763B6F;
+}
+
+
+.taller{
+    display: inline-block;
+    width:70%;
+    height: 80px;
+    margin-top: 0.2%;
+    margin-left: 0%;
+    margin-right: 0%;
+    background-color: #F4EFF4;
+}
+.img-text-2{
+    display: inline-block;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: white;
+}
+#img-btn-text-2{
+    width: 40px;
+    height: 40px;
+}
+.temas-cuadro-2{
+    margin-top: 0.2%;
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 80px;
+    justify-content: center;
+  align-items: center;
+}
+.mensaje-cuadro-2{
+    margin-top: 0.2%;
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 80px;
+    justify-content: center;
+  align-items: center;
+}
+.ultimo-cuadro-2{
+    margin-top: 0.2%;
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 80px;
+    justify-content: center;
+  align-items: center;
+}
+
+
+
+.videoteca{
+    display: inline-block;
+    width:70%;
+    height: 100px;
+    margin-top: 0.2%;
+    margin-left: 0%;
+    margin-right: 0%;
+    background-color: #F4EFF4;
+}
+.img-text-3{
+    display: inline-block;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: white;
+}
+#img-btn-text-3{
+    width: 40px;
+    height: 40px;
+}
+#tv-dim{
+    width: 50px;
+    height: 50px;
+}
+.temas-cuadro-3{
+    margin-top: 0.2%;
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 100px;
+    justify-content: center;
+  align-items: center;
+}
+.mensaje-cuadro-3{
+    margin-top: 0.2%;
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 100px;
+    justify-content: center;
+  align-items: center;
+}
+.ultimo-cuadro-3{
+    margin-top: 0.2%;
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 100px;
+    justify-content: center;
+  align-items: center;
+}
+
+
+.anuncios{
+    display: inline-block;
+    width:70%;
+    height: 80px;
+    margin-top: 0.2%;
+    margin-left: 0%;
+    margin-right: 0%;
+    background-color: #F4EFF4;
+}
+.img-text-4{
+    display: inline-block;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: white;
+}
+#img-btn-text-4{
+    width: 40px;
+    height: 40px;
+}
+.temas-cuadro-4{
+    margin-top: 0.2%;
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 80px;
+    justify-content: center;
+  align-items: center;
+}
+.mensaje-cuadro-4{
+    margin-top: 0.2%;
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 80px;
+    justify-content: center;
+  align-items: center;
+}
+.ultimo-cuadro-4{
+    margin-top: 0.2%;
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 80px;
+    justify-content: center;
+  align-items: center;
+}
+
+/**/
