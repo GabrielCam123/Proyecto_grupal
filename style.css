@@ -418,3 +418,169 @@ background-size:32px;
     height: 32px;
     background-position:0 0
 }
+
+/*JOSUE WILLIAM*/
+.taller{
+    display: inline-block;
+    width:70%;
+    height: 80px;
+    margin-top: 0.2%;
+    margin-left: 0%;
+    margin-right: 0%;
+    background-color: #F4EFF4;
+}
+.img-text-2{
+    display: inline-block;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: white;
+}
+#img-btn-text-2{
+    width: 40px;
+    height: 40px;
+}
+.temas-cuadro-2{
+    margin-top: 0.2%;
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 80px;
+    justify-content: center;
+  align-items: center;
+}
+.mensaje-cuadro-2{
+    margin-top: 0.2%;
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 80px;
+    justify-content: center;
+  align-items: center;
+}
+.ultimo-cuadro-2{
+    margin-top: 0.2%;
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 80px;
+    justify-content: center;
+  align-items: center;
+}
+
+
+
+.videoteca{
+    display: inline-block;
+    width:70%;
+    height: 100px;
+    margin-top: 0.2%;
+    margin-left: 0%;
+    margin-right: 0%;
+    background-color: #F4EFF4;
+}
+.img-text-3{
+    display: inline-block;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: white;
+}
+#img-btn-text-3{
+    width: 40px;
+    height: 40px;
+}
+#tv-dim{
+    width: 50px;
+    height: 50px;
+}
+.temas-cuadro-3{
+    margin-top: 0.2%;
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 100px;
+    justify-content: center;
+  align-items: center;
+}
+.mensaje-cuadro-3{
+    margin-top: 0.2%;
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 100px;
+    justify-content: center;
+  align-items: center;
+}
+.ultimo-cuadro-3{
+    margin-top: 0.2%;
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 100px;
+    justify-content: center;
+  align-items: center;
+}
+
+
+.anuncios{
+    display: inline-block;
+    width:70%;
+    height: 80px;
+    margin-top: 0.2%;
+    margin-left: 0%;
+    margin-right: 0%;
+    background-color: #F4EFF4;
+}
+.img-text-4{
+    display: inline-block;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: white;
+}
+#img-btn-text-4{
+    width: 40px;
+    height: 40px;
+}
+.temas-cuadro-4{
+    margin-top: 0.2%;
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 80px;
+    justify-content: center;
+  align-items: center;
+}
+.mensaje-cuadro-4{
+    margin-top: 0.2%;
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 80px;
+    justify-content: center;
+  align-items: center;
+}
+.ultimo-cuadro-4{
+    margin-top: 0.2%;
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 80px;
+    justify-content: center;
+  align-items: center;
+}
+
+/**/
