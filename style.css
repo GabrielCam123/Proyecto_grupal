@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    border-radius: 1%;
 }
 body{
     margin: 0;
@@ -718,8 +717,9 @@ background-size:32px;
     width:10%;
     height: 80px;
     justify-content: center;
-  align-items: center;
+    align-items: center;
 }
+/*vega*/
 .imgs{
     display: inline-block;
     width: 99%;
@@ -731,10 +731,13 @@ background-size:32px;
     background-color: #763B6F;
 }
 .img-container{
+    margin-left: 4px;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     flex-wrap: nowrap;
     justify-content: space-around;
+    height: 390px;
+    width: 99%;
     padding: 15px;
     overflow: hidden auto;
     font-family: Arial,Helvetica,sans-serif;
@@ -753,12 +756,9 @@ background-size:32px;
     margin: 0 0 15px;
     box-sizing: border-box;
     overflow: hidden;
-    box-shadow: 0 -2px 12px rgba(0,0,0,0.3);
-    break-inside: avoid;
-    transition: filter .2s,opacity .2s;
 }
 .img-container img{
-    position: absolute;
+    position: relative;
     height: auto;
     width: inherit;
     top: 50%;
@@ -766,7 +766,8 @@ background-size:32px;
     transform: translate(-50%,-50%);
     transition: transform .4s;
 }
-img{
-    
+.title{
+    margin-left: 10px;
+    color: white;
 }
 /**/
