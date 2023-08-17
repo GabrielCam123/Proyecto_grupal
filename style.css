@@ -720,4 +720,66 @@ background-size:32px;
   align-items: center;
 }
 
-/**/
+/*Segales Sejas Andrew Eibar*/
+#librito-2{
+    width: 75px;
+    height: 75px;
+}
+.articulo-2{
+    display: inline-block;
+    width:70%;
+    height: 130px;
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    background-color: #F4EFF4;
+}
+.temas-cuadro-S{
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 130px;
+    justify-content: center;
+  align-items: center;
+}
+.ultimo-cuadro-S{
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 130px;
+    justify-content: center;
+  align-items: center;
+}
+
+.mensaje-cuadro-S{
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 130px;
+    justify-content: center;
+  align-items: center;
+}
+#librito-3{
+    width: 75px;
+    height: 75px;
+}
+.cuadro-ops-S{
+    display: block;
+    width:99.5%;
+    height: 270px;
+    margin: 0.2%;
+    background-color: white;
+}
+.taller-progra-S{
+    display: inline-block;
+    width: 99%;
+    height: 300px;
+    margin-top: 0.1%;
+    margin-left: 0.6%;
+    margin-right: 0.6%;
+    margin-block-end: 0.1%;
+    background-color: #763B6F;
+}
