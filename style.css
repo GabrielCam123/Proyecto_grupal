@@ -719,6 +719,222 @@ background-size:32px;
     justify-content: center;
   align-items: center;
 }
+/**/
+/*BEYMAR*/
+.taller-progra_practicando{
+    display: inline-block;
+    width: 99%;
+    height: 415px;
+    margin-top: 0.1%;
+    margin-left: 0.6%;
+    margin-right: 0.6%;
+    margin-block-end: 0.1%;
+    background-color: #763B6F;
+    border-radius: 15px;
+
+}
+#titulo-taller_pro{
+    color: white;
+    float: right;
+    width:100%;
+    height: 10px;
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
+
+.Titulo-block{
+    display: inline-block;
+}
+.clasific{
+    display: inline-block;
+    
+    width:80%;
+    height: 20px;
+}
+.temas-cuadrox{
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 100px;
+    justify-content: center;
+  align-items: center;
+}
+.mensaje-cuadrox{
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 100px;
+    justify-content: center;
+  align-items: center;
+}
+.ultimo-cuadrox{
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+#cuadro-espacio1{
+    
+    width:450px;
+    height: 60px;
+    position: relative;
+    right: 290px;
+    
+}
+.espacio{
+    display: inline-block;
+    width:50px;
+    height: 10px;
+    background-color: red;
+}
+.tt-temas{
+    float: right;
+    width:14%;
+    height: 100px;
+}
+.tt-mensaje{
+    float: right;
+    width:15%;
+    height: 100px;
+}
+.tt-ultimos{
+    float: right;
+    width: 15%;
+    height: 100px;
+}
+.cuadro-op{
+    display: block;
+    width:99.5%;
+    height: 350px;
+    margin: 0.2%;
+    background-color: white;
+}
+
+
+#titulo-tllr-prg{
+    margin: 5px;
+    color: #683362;
+    font-weight: bold;
+}
+
+.practicando{
+    display: inline-block;
+    width:70%;
+    height: 100px;
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    background-color: #F4EFF4;
+}
+.img-general{
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    position: relative;
+    left: 10px;
+    top: -50px;
+}
+#img-btn-general-1{
+    width: 40px;
+    height: 40px;
+   
+}
+.text-titulo{
+    display: inline-block;
+}
+.img-practica{
+    display: inline-block;
+}
+#practica{
+    width: 250px;
+    height: 150px;
+}
+.descrip-text{
+    display: inline-block;
+}
+#desc-text-t{
+    color: #763B6F;
+}
+#prrf-sup{
+    color: #683362;
+    font-weight: bold;
+}
+#prrf-sup-1{
+    color: #763B6F;
+}
+
+
+.proyec{
+    display: inline-block;
+    width:70%;
+    height: 80px;
+    margin-top: 0.2%;
+    margin-left: 0%;
+    margin-right: 0%;
+    background-color: #F4EFF4;
+}
+.img-general{
+    display: inline-block;
+    
+   
+    
+    margin-top: 15px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: white;
+}
+#img-btn-general-2{
+    width: 40px;
+    height: 40px;
+}
+.img-proyecc{
+    display: inline-block;
+}
+#proyectito{
+    width: 140px;
+    height: 110px;
+}
+.temas-cuadrox-2{
+    margin-top: 0.2%;
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 80px;
+    justify-content: center;
+  align-items: center;
+}
+.mensaje-cuadrox-2{
+    margin-top: 0.2%;
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 80px;
+    justify-content: center;
+  align-items: center;
+}
+.ultimo-cuadrox-2{
+    margin-top: 0.2%;
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+    
+}
 
 /*Segales Sejas Andrew Eibar*/
 #librito-2{
